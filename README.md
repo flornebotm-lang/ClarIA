@@ -1,2 +1,2 @@
 # ClarIA
-Agente inteligente con arquitectura RAG y Ollama para la recuperación y análisis de información mediante Deep Learning.
+Toda la documentación detallada, la metodología, el análisis de datos y la implementación del modelo se encuentran explicados paso a paso dentro del Jupyter Notebook incluido en este repositorio.
